@@ -8,6 +8,8 @@ ________________________________________________________________________________
 
 ![IMG_0064](https://user-images.githubusercontent.com/59139408/102343810-51d00480-3f9b-11eb-9bc6-5dd98795a4d6.jpg)
 
+Copyright 2020 by Grzegorz Cz. All rights reserved.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
