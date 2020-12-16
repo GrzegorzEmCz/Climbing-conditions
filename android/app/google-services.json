@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561159754398",
+    "firebase_url": "https://weather-clm.firebaseio.com",
+    "project_id": "weather-clm",
+    "storage_bucket": "weather-clm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561159754398:android:15c42e5c1fc3059c77218f",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561159754398-7nkgqpfv7i5q3q2arqqfd8cv9q1nd37s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvIfylyjB8IWQGT8x6w2ViawJnHs2bTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561159754398-7nkgqpfv7i5q3q2arqqfd8cv9q1nd37s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
